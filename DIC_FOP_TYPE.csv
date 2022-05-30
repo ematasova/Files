@@ -1,0 +1,38 @@
+﻿code,name,payment_doc
+BN,Бонус,Invoice
+IT,Регулярные рейсы  С7 Тур,Invoice
+ZZ,Бронирование КЦ,Other
+PA,Урегулирование с агентом,Other
+AC,Кред. карта обр. агентом,Other
+AI,Счет авиакомпании,Invoice
+CA,Наличные,Other
+CC,Кредитная карточка,Credit Card
+EX,Обмен,Ticket
+FF,Чек превилегии,Cheque
+IN,Счета агента,Invoice
+PN,Штраф при возврате,Other
+PT,PTA,MCO
+RO,Округление,Other
+SP,Скидка,Other
+MC,МСО,MCO
+RR,Счет руководителю,Invoice
+DU,Дубликат,Ticket
+MS,Неперечисляемая сумма по BSP,Other
+NB,Неприложенный билет,Other
+CF,Наличные  счет-фактура,Invoice
+L1,Герои (ГИ ГС ГО),Invoice
+L2,Герои  труда (ГН),Invoice
+L3,Инвалиды (ИН ИП ИР ИТ),Invoice
+L4,Ветераны (ИВ ИГ ИС УВ),Invoice
+TU,тур,Invoice
+CH,Чартер,Invoice
+EA,Обмен бланков др перевозчика,Ticket
+NR,Отсутствие билета в реестре,Other
+DP,Депортированные пассажиры,Invoice
+IC,Кредитная карта через интернет,Credit Card
+SC,По договору STA,Invoice
+AH,Блок Чартер,Invoice
+RF,Возврат,Other
+BL,Биллинг карта,Credit Card
+EP,Кредитная карточка,Credit Card
+BB,Обмен,Invoice
